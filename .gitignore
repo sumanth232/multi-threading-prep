@@ -1,0 +1,7 @@
+out
+.project
+.settings
+.idea
+*.iml
+*.xml
+*.log
